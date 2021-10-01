@@ -3,6 +3,9 @@
 - hobby : sleeping .. zZ
 - special ability : I can use photoshop-tool
 
+## 정다솔
+- hobby : Watching the Netfliex
+- special ability : I SUPER LOVE FOOD
 * * *
 
 ## 최한나
