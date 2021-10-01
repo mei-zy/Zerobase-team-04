@@ -9,5 +9,14 @@
 * * *
 
 ## 최한나
-- hobby : Movies(Horror)
-- special ability : eat, sleep
+```
+public class hanna{
+	public static void main(String[] args){
+		String hobby="Movies(Horror)";
+		String ability="eat, sleep";
+		System.out.println("-hobby :"+hobby);
+		System.out.println("-special ability :"+ability);
+
+	}
+}
+```
