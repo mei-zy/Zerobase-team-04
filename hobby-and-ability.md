@@ -4,6 +4,6 @@
 - special ability
 
 ## 정다솔
-- hobby : 넷플릭스 보기
-- special ability : 잘 먹는다
+- hobby : Watching the Netfliex
+- special ability : I SUPER LOVE FOOD
 * * *
