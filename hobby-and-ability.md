@@ -6,7 +6,7 @@
 ## 정다솔
 ```javascript
 정다솔 : {
-	hobby: 'Watching the Netfliex'
+	hobby: 'Watching the Netfliex',
 	special ability : 'I SUPER LOVE FOOD'
 }
 ```
