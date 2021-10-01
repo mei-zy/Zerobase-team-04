@@ -1,7 +1,7 @@
 # My hobby and special ability
-## 박민지
-- hobby : sleeping .. zZ
-- special ability : I can use photoshop-tool
+print('## 박민지
+	- hobby : sleeping .. zZ 
+	- special ability : I can use photoshop-too')
 
 ## 정다솔
 - hobby : Watching the Netfliex
