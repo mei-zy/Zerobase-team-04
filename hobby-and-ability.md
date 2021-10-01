@@ -4,3 +4,7 @@
 - special ability
 
 * * *
+
+## 최한나
+- hobby : Movies(Horror)
+- special ability : eat, sleep
