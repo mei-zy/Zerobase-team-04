@@ -1,8 +1,9 @@
 # My hobby and special ability
+```python3
 print('## 박민지
 	- hobby : sleeping .. zZ 
 	- special ability : I can use photoshop-too')
-
+```
 ## 정다솔
 ```javascript
 정다솔 : {
