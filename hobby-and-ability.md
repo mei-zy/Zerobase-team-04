@@ -4,10 +4,23 @@ print('## 박민지
 	- special ability : I can use photoshop-too')
 
 ## 정다솔
-- hobby : Watching the Netfliex
-- special ability : I SUPER LOVE FOOD
+```javascript
+정다솔 : {
+	hobby: 'Watching the Netfliex',
+	special ability : 'I SUPER LOVE FOOD'
+}
+```
 * * *
 
 ## 최한나
-- hobby : Movies(Horror)
-- special ability : eat, sleep
+```java
+public class hanna{
+	public static void main(String[] args){
+		String hobby="Movies(Horror)";
+		String ability="eat, sleep";
+		System.out.println("-hobby :"+hobby);
+		System.out.println("-special ability :"+ability);
+
+	}
+}
+```
