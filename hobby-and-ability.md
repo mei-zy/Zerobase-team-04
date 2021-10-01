@@ -9,7 +9,7 @@
 * * *
 
 ## 최한나
-```
+```java
 public class hanna{
 	public static void main(String[] args){
 		String hobby="Movies(Horror)";
